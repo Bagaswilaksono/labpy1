@@ -13,4 +13,11 @@ Buatlah rumus codingan seperti di bawah ini dan perhatikan setiap pengetikan dal
 # ![step 2](https://user-images.githubusercontent.com/46734107/52327122-8b3d9d80-2a1d-11e9-9ab4-0c877f8d067f.png)
 
 
-Berikut ini penjelasan mengenai codingan membuat program bilangan sederhanan :
+>Berikut ini penjelasan mengenai codingan membuat program bilangan sederhanan :
+
+"print()" = Untuk mencetak atau menampilkan objek ke perangkat keluaran (layar) atau ke file teks.
+
+"def"     = Sebuah perintah python yang tidak akanaktif sampai python me-running perintah def tersebut atau sebagai kata kunci
+
+"int
+
