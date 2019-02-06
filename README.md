@@ -31,8 +31,13 @@ Buatlah rumus codingan seperti di bawah ini dan perhatikan setiap pengetikan dal
 "else"    = Ketika tidak ada suatu kondisi yang terpenuhi maka jalankan program.
 
 "return"  = sebuah selesainya eksekusi dalam sebuah kodingan.
+```
 
+>CARA 3
 
+Untuk menguji codingan berhasil atau tidak,Maka bukalah aplikasi CMD/Command Prompt
+
+#
 
 
 
