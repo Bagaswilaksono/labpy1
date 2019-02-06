@@ -8,7 +8,11 @@ Untuk memulai dalam membuat program bilangan sederhana bisa menggunakan aplikasi
 
 >CARA 2
 
-Buatlah rumus codingan seperti di bawah ini dan perhatikan setiap pengetikan dalam membuat program bilangan sederhana :
+Sebelum memulai eksekusi,Maka butlah folder baru dengan penamaan file yang berakhiran "py".
+
+#
+
+Lalu buatlah codingan seperti dibawah ini,dan perhatikan setiap pengetikan huruf dan tandanya.
 
 # ![step 2](https://user-images.githubusercontent.com/46734107/52327122-8b3d9d80-2a1d-11e9-9ab4-0c877f8d067f.png)
 
