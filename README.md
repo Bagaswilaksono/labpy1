@@ -12,12 +12,28 @@ Buatlah rumus codingan seperti di bawah ini dan perhatikan setiap pengetikan dal
 
 # ![step 2](https://user-images.githubusercontent.com/46734107/52327122-8b3d9d80-2a1d-11e9-9ab4-0c877f8d067f.png)
 
-
+  
 >Berikut ini penjelasan mengenai codingan membuat program bilangan sederhanan :
 
+```
 "print()" = Untuk mencetak atau menampilkan objek ke perangkat keluaran (layar) atau ke file teks.
 
-"def"     = Sebuah perintah python yang tidak akanaktif sampai python me-running perintah def tersebut atau sebagai kata kunci
+"def"     = Sebuah perintah python yang tidak akanaktif sampai python me-running perintah def tersebut atau sebagai kata kunci.
 
-"int
+"int()"   = Untuk mengkonversi bilangan maupun string angka menjadi bilangan bulat (interger).
+
+"input()" = Untuk menerima baris input dari user dan mengembalikan dalam bentuk string.
+
+"if"      = Yaitu bila suatu kondisi tertentu tercapai maka apa yang harus dilakukan.
+
+"elif"    = Ketika kondisi lainnya tidak tercapai maka jalankan program. 
+
+"else"    = Ketika tidak ada suatu kondisi yang terpenuhi maka jalankan program.
+
+"return"  = sebuah selesainya eksekusi dalam sebuah kodingan.
+
+
+
+
+
 
