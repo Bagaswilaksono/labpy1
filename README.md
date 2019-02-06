@@ -37,7 +37,7 @@ Buatlah rumus codingan seperti di bawah ini dan perhatikan setiap pengetikan dal
 
 Untuk menguji codingan berhasil atau tidak,Maka bukalah aplikasi CMD/Command Prompt
  
-#
+# ![step 3](https://user-images.githubusercontent.com/46734107/52330901-3d2e9700-2a29-11e9-89b7-e202d969f015.png)
 
 Berikut contoh jika codingan berhasil dalam sebuah program CMD :
 
