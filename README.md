@@ -10,7 +10,8 @@ Untuk memulai dalam membuat program bilangan sederhana bisa menggunakan aplikasi
 
 Sebelum memulai eksekusi,Maka butlah folder baru dengan penamaan file yang berakhiran "py"(tanpa anda kutip),contoh file yang saya buat "Tugas2.py".
 
-#
+# ![step 5](https://user-images.githubusercontent.com/46734107/52331560-16716000-2a2b-11e9-91d1-ce9c2b837e45.png)
+
 
 Lalu buatlah codingan seperti dibawah ini,dan perhatikan setiap pengetikan huruf dan tandanya.
 
