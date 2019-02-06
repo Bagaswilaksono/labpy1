@@ -8,7 +8,7 @@ Untuk memulai dalam membuat program bilangan sederhana bisa menggunakan aplikasi
 
 >CARA 2
 
-Sebelum memulai eksekusi,Maka butlah folder baru dengan penamaan file yang berakhiran "py".
+Sebelum memulai eksekusi,Maka butlah folder baru dengan penamaan file yang berakhiran "py"(tanpa anda kutip),contoh file yang saya buat "Tugas2.py".
 
 #
 
