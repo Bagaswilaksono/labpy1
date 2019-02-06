@@ -39,9 +39,11 @@ Untuk menguji codingan berhasil atau tidak,Maka bukalah aplikasi CMD/Command Pro
  
  # [step 3](https://user-images.githubusercontent.com/46734107/52329678-fbe8b800-2a25-11e9-80f0-daa814968a58.png)
 
-Berikut contoh jika CMD berhasil dalam sebuah program :
+Berikut contoh jika codingan berhasil dalam sebuah program CMD :
 
-#
+#![step 4](https://user-images.githubusercontent.com/46734107/52330243-82ea6000-2a27-11e9-8b09-2bb611742d97.png)
+![Uploading image.png…]()
+
 
 
 
